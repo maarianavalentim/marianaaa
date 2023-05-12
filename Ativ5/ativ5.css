@@ -1,0 +1,9 @@
+body{background-color: rgba(163, 255, 124, 0.737);
+
+}
+h2{
+    color: rgb(0, 0, 0); /*Cor do texto*/
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 24px;
+}

@@ -1,0 +1,46 @@
+body{
+    background-color: rgb(156, 156, 153);
+    /*Muda a cor de fundo*/
+}
+
+h1{
+    color: turquoise; /*Cor do texto*/
+    text-align: center;
+}
+
+p{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    /*TRoca a fonte do texto*/
+    text-align: justify;
+    /*Deixa o texto justificado*/
+}
+
+.texto{ /*Uso . para chamar uma classe*/
+    color: rgb(72, 212, 112);
+}
+
+#titulo{  /*Uso # para chamar o ID*/
+    color: deepskyblue;
+}
+
+a{
+    text-decoration: none; /*Remove a formatação padrão da tag*/
+font-size: 50px; /*Muda o tamanho do texto*/
+background-color: azure;
+color: blue;
+border-radius: 7px; /*arredonda a borda*/
+border-color: blueviolet;/*Cor da borda*/
+border-style: dashed;/*Estilo da borda*/
+border-width: 3px;/*Largura da borda*/
+padding: 5px 20px 40px 60px ;
+}
+
+img {
+    width: 200px;
+    height: auto;
+
+}
+
+div{
+    text-align: center;
+}
